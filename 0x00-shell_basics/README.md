@@ -1,1 +1,1 @@
-/root/alx-system_engineering-devops/0x00-shell_basics
+Display current directory contents in a long format
